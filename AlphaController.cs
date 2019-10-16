@@ -1,4 +1,6 @@
-﻿using System.Collections;
+//some code below taken from https://forum.unity.com/threads/how-can-i-change-transparency-of-multiple-child-objects-by-their-parent-object.454392/
+//solution edited to work with my game
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -25,5 +27,4 @@ public class AlphaController : MonoBehaviour
             }
         }
     }
-
 }
